@@ -1,5 +1,5 @@
 # Projects
-## [NPPES NPI Registry Data Quality Audit](https://github.com/OnyeMC/NPPES-Registry-Data-Quality-Audit)
+## [NPPES NPI Registry Data Quality Audit](https://github.com/OnyeMC/NPPES-NPI-Registry-Data-Quality-Audit)
 * **Description:** Evaluates the quality of data in the NPPES NPI Registry to determine its effectiveness as a source for provider information.
 * **Tools Used:** Python, SQL, Power BI
 
