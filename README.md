@@ -14,11 +14,3 @@
 ## [Evaluating Hospital Quality Measures](https://github.com/OnyeMC/Hospital-Quality-Measures-Project)
 * **Description:** Examining 3 quality measures from several hospitals and evaluating the differences between hospitals with better and worse values to identify areas of improvement.
 * **Tools Used:** Python, SQL, Power BI
-
-## [Effectiveness of the Deficits Reduction Act](https://github.com/OnyeMC/Deficits-Reduction-Act-Project)
-* **Description:** Evaluates the effectiveness of the Deficit Reduction Act (DRA) on reducing the rate of hospital-acquired conditions from 2015 to 2024.
-* **Tools Used:** Excel, SQL, Power BI
-
-## [MMR Vaccinations vs Measles Cases](https://github.com/OnyeMC/MMR-Vaccinations-vs-Measles-Cases-Project)
-* **Description:** Determining if there is a correlation between Kindergarten MMR vaccination rates and the number of measles cases for each US state.
-* **Tools Used:** Excel, SQL, Tableau
